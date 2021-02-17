@@ -1,5 +1,5 @@
 {
-  "name": "unique-id-generator",
+  "name": "@user/unique-id-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
