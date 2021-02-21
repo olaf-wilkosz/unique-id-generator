@@ -1,4 +1,4 @@
-# Unique ID Generator &middot; ![Version](https://img.shields.io/github/package-json/v/olaf-wilkosz/unique-id-generator?style=for-the-badge) ![License: ISC](https://img.shields.io/github/license/olaf-wilkosz/unique-id-generator?style=for-the-badge)
+# Unique ID Generator &middot; ![Version](https://img.shields.io/github/package-json/v/olaf-wilkosz/unique-id-generator?style=for-the-badge) ![License: MIT](https://img.shields.io/github/license/olaf-wilkosz/unique-id-generator?style=for-the-badge)
 
 ## Description
 
