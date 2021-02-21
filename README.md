@@ -11,7 +11,9 @@ To run this package in your environment you will only need Node.js and npm/yarn 
 ## Instalation
 
 `npm install @olaf-wilkosz/unique-id-generator`
+
 or
+
 `yarn add @olaf-wilkosz/unique-id-generator`
 
 ## Usage
